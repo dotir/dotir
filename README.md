@@ -1,5 +1,5 @@
-# Hello! I'm Irving! Full Stack Developer
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+# Hola! Soy Irving! Full Stack Developer
+## Sobre mi
+¡Hola! Soy un apasionado desarrollador Full Stack con un enfoque especial en Java y Angular. Mi viaje en el mundo de la tecnología comenzó con una fascinación por construir soluciones que no solo funcionan de manera eficiente, sino que también brindan una experiencia de usuario convincent
+## Contáctame
+A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy en la búsqueda de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
