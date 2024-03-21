@@ -4,4 +4,5 @@
 ## Contáctame
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy en la búsqueda de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 ## Idiomas
-Español Nativo y Ingles Intermedio
+- Español Nativo
+- Ingles Intermedio
