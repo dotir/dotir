@@ -7,5 +7,5 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy en la
 - Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor.
 - Front-End: Mi experiencia en html y css me permite crear interfaces interactivas y fáciles de usar.
 ## Aficiones
-- Baile
 - Videojuegos
+- Ver Peliculas y Series
