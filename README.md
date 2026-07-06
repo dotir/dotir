@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Irving
 
+🌐 **Visita mi portafolio:** [irvingllerena.vercel.app](https://irvingllerena.vercel.app/) — proyectos, casos de estudio y CV descargable.
+
 ## 🚀 Sobre mí
 Soy un **desarrollador de software** apasionado por crear soluciones eficientes, escalables y orientadas a mejorar procesos reales.  
 Tengo experiencia trabajando tanto en **frontend** como en **backend**, además de desarrollar módulos personalizados y soluciones empresariales.
@@ -55,8 +57,13 @@ Además, cuento con experiencia implementando soluciones en **Odoo 17 Enterprise
 ---
 
 ## 💬 Contáctame
-Estoy abierto a colaborar en proyectos interesantes, aprender nuevas tecnologías y aportar soluciones creativas y escalables.  
+Estoy abierto a colaborar en proyectos interesantes, aprender nuevas tecnologías y aportar soluciones creativas y escalables.
 **¡Conectemos y construyamos algo increíble juntos!**
+
+- 🌐 **Portafolio:** [irvingllerena.vercel.app](https://irvingllerena.vercel.app/)
+- 💼 **LinkedIn:** [Irving Llerena Bejarano](https://www.linkedin.com/in/irving-hector-llerena-bejarano-4b90aa210/)
+- 📧 **Email:** [irvingllerena@gmail.com](mailto:irvingllerena@gmail.com)
+- 📱 **WhatsApp:** [+51 980 252 537](https://wa.me/51980252537)
 
 ---
 
