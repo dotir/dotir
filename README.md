@@ -19,6 +19,7 @@ Además, cuento con experiencia implementando soluciones en **Odoo 17 Enterprise
 - Vue.js  
 - React  
 - Angular  
+- Tailwind CSS  
 
 ### ⚙️ Backend
 - Python  
@@ -26,6 +27,7 @@ Además, cuento con experiencia implementando soluciones en **Odoo 17 Enterprise
 - Node.js  
 - Desarrollo de APIs  
 - Java  
+- PostgreSQL  
 
 ### 🏢 ERP y Automatización
 - Odoo 17 Enterprise  
@@ -40,12 +42,10 @@ Además, cuento con experiencia implementando soluciones en **Odoo 17 Enterprise
 - Desarrollo de asistentes con IA  
 
 ### 🛠️ Otros
-- Linux / Ubuntu  
-- Firewalld  
-- Servidores  
-- SDKMAN! (gestión de versiones de Java)  
-- Google Colab  
+- Docker  
+- Linux / Ubuntu y administración de servidores  
 - Git y GitHub  
+- Google Colab  
 
 ---
 
